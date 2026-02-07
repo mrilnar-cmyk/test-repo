@@ -1,1 +1,6 @@
 Add a new line to main
+<<<<<<< HEAD
+Different line from feature branch
+=======
+Another line added via main branch
+>>>>>>> main
